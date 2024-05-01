@@ -7,6 +7,6 @@
       <?= $title; ?> se entrena en <?= $days_until; ?> días.
     </h3>
     <p>Fecha de estreno: <?= $release_date; ?>.</p>
-    <p>La siguiente película es: <?= $following_production["title"]; ?></p>
+    <p>La siguiente película es: <?= $following_production; ?></p>
   </hgroup>
 </main>
