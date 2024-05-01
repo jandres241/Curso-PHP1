@@ -31,7 +31,7 @@ class Superhero
   {
     $names = ["Thor", "Hulk", "Spiderman", "Ironman"];
     $powers = [
-      ["Superfuerza", "Volar", "Rayos laser"], ["Regeneracion", "Telarañas", "Super agilidad"], ["Manipula truenos", "Gran fuerza", "Entre otros"]
+      ["Superfuerza", "Volar", "Rayos láser"], ["Regeneración", "Telarañas", "Super agilidad"], ["Manipula truenos", "Gran fuerza", "Entre otros"]
     ];
     $locates = ["Asgard", "Tierra", "Planeta Hulk"];
 
